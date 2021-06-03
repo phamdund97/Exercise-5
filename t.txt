@@ -1,2 +1,2 @@
-feature 1ò
-feature 2
+feature 1
+.

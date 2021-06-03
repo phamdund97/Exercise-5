@@ -1,0 +1,7 @@
+B1: clone repo: git clone https://gitlab.com/tubcvt/git-basic-ex5.git
+B2: Thay doi thong tin config:
+    git config --global user.name "Pham Du"
+    git config --global user.email "Phamdund97@gmail.com"
+    git remote set-url origin https://github.com/phamdund97/Exercise-5.git
+B3: Merge master tu nhanh feature_t: git merge master, sau do dung mergetool de xu li conflict: git mergetool -> diffg LO.
+    Su dung merge giup bao toan toan bo thong tin khi merge giua 2 nhanh co su thay doi va tao ra it log nhat

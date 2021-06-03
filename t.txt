@@ -1,4 +1,3 @@
-﻿feature 1ò
+﻿feature 1
 feature 2
-.
 
